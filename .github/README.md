@@ -76,5 +76,6 @@ sudo php /tmp/composer-setup.php --install-dir=/usr/local/bin --filename=compose
 
 go install github.com/dundee/gdu/v5/cmd/gdu@latest
 cargo install bottom --locked
+go install github.com/jesseduffield/lazygit@latest
 
 ```
